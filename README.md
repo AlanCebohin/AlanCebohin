@@ -22,7 +22,7 @@
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" style="width: 2rem; margin-right: 1rem" />
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" style="width: 2rem; margin-right: 1rem" />
     <img src="https://styles.redditmedia.com/t5_2yfb2/styles/communityIcon_74j51iggmzr71.png?width=256&s=2a24d4ca8fd9973b87512814a31ac5c143305b57" alt="Unity 3D" style="width: 2rem; margin-right: 1rem" />
-    <img src="http://static.gunnarpeipman.com/wp-content/uploads/2009/10/csharp-featured.png" alt="C#" style="width: 2rem; margin-right: 1rem" />
+    <img src="https://sg.com.mx/sites/default/files/styles/max_w680/public/images/C_sharp%20CDMx.png?itok=PygyXf53" alt="C#" style="width: 2rem; margin-right: 1rem" />
 </div>
 
 <!---
