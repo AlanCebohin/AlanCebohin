@@ -1,6 +1,6 @@
-- Full stack developer
-- 👾 🔐 Video games and Cybersecurity enthusiast
-- I’m open to work as Front End or Video games dev
+- 👾 Video games developer
+- 💻 Full stack developer
+- 🔐 Cybersecurity enthusiast
 - Reach me on  <a href="https://www.linkedin.com/in/alancebohin/">LinkedIn</a> or <a href="mailto:alancebohin92@gmail.com">alancebohin92@gmail.com</a>
 
 <h3>Languages and tools</h3>
@@ -9,6 +9,8 @@
         display: flex;
         justify-content: space-between;"
 >
+    <img src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png" alt="Unity 3D" style="width: 2rem; margin-right: 1rem" />
+    <img src="https://sg.com.mx/sites/default/files/styles/max_w680/public/images/C_sharp%20CDMx.png?itok=PygyXf53" alt="C#" style="width: 2rem; margin-right: 1rem" />
     <img src="https://img.stackshare.io/service/992/AcA2LnWL_400x400.jpg" alt="Laravel" style="width: 2rem; margin-right: 1rem" />
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" style="width: 2rem; margin-right: 1rem" />
     <img src="https://camo.githubusercontent.com/c8f91d18976e27123643a926a2588b8d931a0292fd0b6532c3155379e8591629/68747470733a2f2f7675656a732e6f72672f696d616765732f6c6f676f2e706e67" alt="Vue.js" style="width: 2rem; margin-right: 1rem" />
@@ -21,8 +23,6 @@
     <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="Github" style="width: 2rem; margin-right: 1rem" />
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" style="width: 2rem; margin-right: 1rem" />
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" style="width: 2rem; margin-right: 1rem" />
-    <img src="https://styles.redditmedia.com/t5_2yfb2/styles/communityIcon_74j51iggmzr71.png?width=256&s=2a24d4ca8fd9973b87512814a31ac5c143305b57" alt="Unity 3D" style="width: 2rem; margin-right: 1rem" />
-    <img src="https://sg.com.mx/sites/default/files/styles/max_w680/public/images/C_sharp%20CDMx.png?itok=PygyXf53" alt="C#" style="width: 2rem; margin-right: 1rem" />
 </div>
 
 <!---
