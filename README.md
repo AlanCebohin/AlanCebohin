@@ -1,3 +1,4 @@
+- Unity Certified Developer.
 - 👾 Video games developer.
 - 💻 Full stack developer.
 - Reach me on  <a href="https://www.linkedin.com/in/alancebohin/">LinkedIn</a> or <a href="mailto:alancebohin92@gmail.com">alancebohin92@gmail.com</a>
