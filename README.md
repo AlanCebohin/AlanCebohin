@@ -3,6 +3,8 @@
 - 💻 Full stack developer.
 - Reach me on  <a href="https://www.linkedin.com/in/alancebohin/">LinkedIn</a> or <a href="mailto:alancebohin92@gmail.com">alancebohin92@gmail.com</a>
 
+- Play online my <a href="https://alancebohin.itch.io/cv">INTERACTIVE CV</a> on itch.io
+
 <h3>Languages and tools</h3>
 <div
     style="width: 2rem;
