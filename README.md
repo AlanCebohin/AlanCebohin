@@ -1,4 +1,5 @@
-- Unity Certified Developer.
+- Unity Certified Developer. ![Unity Certified User Programmer Badge](https://github.com/AlanCebohin/AlanCebohin/assets/19630708/9446a17a-570f-4ec8-ae85-3d6c78a9ed05)
+
 - 👾 Video games developer.
 - 💻 Full stack developer.
 - Reach me on  <a href="https://www.linkedin.com/in/alancebohin/">LinkedIn</a> or <a href="mailto:alancebohin92@gmail.com">alancebohin92@gmail.com</a>
