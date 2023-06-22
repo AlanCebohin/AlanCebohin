@@ -1,4 +1,4 @@
-- Unity Certified Developer. ![Unity Certified User Programmer Badge](https://github.com/AlanCebohin/AlanCebohin/assets/19630708/9446a17a-570f-4ec8-ae85-3d6c78a9ed05)
+- Unity Certified Developer. <img src="!https://github.com/AlanCebohin/AlanCebohin/assets/19630708/9446a17a-570f-4ec8-ae85-3d6c78a9ed05" alt="Unity Certified User Programmer Badge" style="width: 2rem; margin-right: 1rem" />
 
 - 👾 Video games developer.
 - 💻 Full stack developer.
