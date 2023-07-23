@@ -1,34 +1,19 @@
-- Unity Certified Developer.
 
-- 👾 Video games developer.
-- 💻 Full stack developer.
-- Reach me on  <a href="https://www.linkedin.com/in/alancebohin/">LinkedIn</a> or <a href="mailto:alancebohin92@gmail.com">alancebohin92@gmail.com</a>
+![Banner](https://github.com/AlanCebohin/AlanCebohin/assets/19630708/d91faa7f-7d6d-4185-ada7-13af424681ef)
 
-- Play online my <a href="https://alancebohin.itch.io/cv">INTERACTIVE CV</a> on itch.io
+<h1 align="center">Unity Certified Programmer &nbsp <img src="https://certiport.pearsonvue.com/Certifications/Unity/Certified-User/Badging/certified-user.png" alt="CertificationBadge" style="height:65px; height:65px" align="center" /> </h1>
+<h3 align="center">Video game developer 👾</h3>
 
-<h3>Languages and tools</h3>
-<div
-    style="width: 2rem;
-        display: flex;
-        justify-content: space-between;"
->
-    <img src="https://cdn-icons-png.flaticon.com/512/5969/5969294.png" alt="Unity 3D" style="width: 2rem; margin-right: 1rem" />
-    <img src="https://sg.com.mx/sites/default/files/styles/max_w680/public/images/C_sharp%20CDMx.png?itok=PygyXf53" alt="C#" style="width: 2rem; margin-right: 1rem" />
-    <img src="https://img.stackshare.io/service/992/AcA2LnWL_400x400.jpg" alt="Laravel" style="width: 2rem; margin-right: 1rem" />
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" style="width: 2rem; margin-right: 1rem" />
-    <img src="https://camo.githubusercontent.com/c8f91d18976e27123643a926a2588b8d931a0292fd0b6532c3155379e8591629/68747470733a2f2f7675656a732e6f72672f696d616765732f6c6f676f2e706e67" alt="Vue.js" style="width: 2rem; margin-right: 1rem" />
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React.js" style="width: 2rem; margin-right: 1rem" />
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" style="width: 2rem; margin-right: 1rem" />
-    <img src="https://miro.medium.com/max/632/1*KTAstxDm8yEG17u94avrXw.png" alt="TailwindCss" style="width: 2rem; margin-right: 1rem" />
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" style="width: 2rem; margin-right: 1rem" />
-    <img src="https://camo.githubusercontent.com/95a0d0dfd4854f5b873e2c5396064ab18a9e7b2ed7d7c5df1cf6197d6cd8eb29/68747470733a2f2f7777772e66726565706e676c6f676f732e636f6d2f75706c6f6164732f6c6f676f2d6d7973716c2d706e672f6c6f676f2d6d7973716c2d6d7973716c2d6c6f676f2d706e672d696d616765732d6172652d646f776e6c6f61642d6372617a79706e672d32312e706e67" alt="MySQL" style="width: 2rem; margin-right: 1rem" />
-    <img src="https://camo.githubusercontent.com/37b2546c9188b42e0fd0048c18d84a92df72051cf0136694ebf7bcb12e9351b9/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3235362f6769742d31382d313137353231392e706e67" alt="Git" style="width: 2rem; margin-right: 1rem" />
-    <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="Github" style="width: 2rem; margin-right: 1rem" />
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" style="width: 2rem; margin-right: 1rem" />
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" style="width: 2rem; margin-right: 1rem" />
-</div>
+<img align="right" alt="Coding" width="400" src="https://github.com/AlanCebohin/AlanCebohin/assets/19630708/f8dc5892-07af-4924-bbce-5e1aa0d10458" />
 
-<!---
-AlanCebohin/AlanCebohin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+- Creating content about Unity on [Master Devs](masterdevs.es)  <img alt="MasterDevsLogo" width="40" src="https://www.masterdevs.es/wp-content/uploads/2021/11/LogoMasterDevs64x64.jpg.webp" align="center" />
+
+
+- Reach me on  <a href="https://www.linkedin.com/in/alancebohin/">**LinkedIn**</a> or <a href="mailto:alancebohin92@gmail.com">**alancebohin92@gmail.com**</a>
+
+<h3 align="left">Check my <a href="https://alancebohin.itch.io">INTERACTIVE RESUME</a> out on itch.io:</h3>
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
