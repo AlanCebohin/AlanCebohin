@@ -12,7 +12,7 @@
 
 - Reach me on  <a href="https://www.linkedin.com/in/alancebohin/">**LinkedIn**</a> or <a href="mailto:alancebohin92@gmail.com">**alancebohin92@gmail.com**</a>
 
-<h3 align="left">Check my <a href="https://alancebohin.itch.io/cv">INTERACTIVE RESUME</a> out on itch.io:</h3>
+<h3 align="left">Check my <a href="https://alancebohin.itch.io/cv">INTERACTIVE RESUME</a> out on itch.io</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
