@@ -7,12 +7,12 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/AlanCebohin/AlanCebohin/assets/19630708/f8dc5892-07af-4924-bbce-5e1aa0d10458" />
 
 
-- Creating content about Unity on [Master Devs](masterdevs.es)  <img alt="MasterDevsLogo" width="40" src="https://www.masterdevs.es/wp-content/uploads/2021/11/LogoMasterDevs64x64.jpg.webp" align="center" />
+- Creating content about Unity on <a href="https://masterdevs.es/">Master Devs</a>  <img alt="MasterDevsLogo" width="40" src="https://www.masterdevs.es/wp-content/uploads/2021/11/LogoMasterDevs64x64.jpg.webp" align="center" />
 
 
 - Reach me on  <a href="https://www.linkedin.com/in/alancebohin/">**LinkedIn**</a> or <a href="mailto:alancebohin92@gmail.com">**alancebohin92@gmail.com**</a>
 
-<h3 align="left">Check my <a href="https://alancebohin.itch.io">INTERACTIVE RESUME</a> out on itch.io:</h3>
+<h3 align="left">Check my <a href="https://alancebohin.itch.io/cv">INTERACTIVE RESUME</a> out on itch.io:</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
