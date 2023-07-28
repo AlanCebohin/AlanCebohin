@@ -4,7 +4,7 @@
 <h1 align="center">Unity Certified Programmer &nbsp <a href="https://credly.com/badges/fccec8ed-4a73-4fff-8658-28bbd57c9068/" target="_blank"><img src="https://certiport.pearsonvue.com/Certifications/Unity/Certified-User/Badging/certified-user.png" alt="CertificationBadge" style="height:65px; height:65px" align="center" /></a> </h1>
 <h3 align="center">Video game developer 👾</h3>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/AlanCebohin/AlanCebohin/assets/19630708/f8dc5892-07af-4924-bbce-5e1aa0d10458" />
+<img align="right" alt="AlanCharacter" width="400" src="https://github.com/AlanCebohin/AlanCebohin/assets/19630708/f8dc5892-07af-4924-bbce-5e1aa0d10458" />
 
 
 - Creating content about Unity on <a href="https://masterdevs.es/">Master Devs</a>  <img alt="MasterDevsLogo" width="40" src="https://www.masterdevs.es/wp-content/uploads/2021/11/LogoMasterDevs64x64.jpg.webp" align="center" />
