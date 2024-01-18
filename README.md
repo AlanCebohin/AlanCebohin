@@ -3,15 +3,14 @@
 
 
 <h1 align="center"><a href="https://credly.com/badges/fccec8ed-4a73-4fff-8658-28bbd57c9068/" target="_blank"> Unity Certified Programmer &nbsp <img src="https://certiport.pearsonvue.com/Certifications/Unity/Certified-User/Badging/certified-user.png" alt="CertificationBadge" style="height:65px; height:65px" align="center" /></a> </h1>
-<h3 align="center">Creator of longlasting experiences and virtual worlds 👾</h3>
-<hr>
+<h2 align="center">Co-Founder of <a href="https://twitter.com/cozycapystudio" target="blank">Cozy Capy Studio</a>, Crafting Unforgettable Experiences and Virtual Worlds.</h2>
 <br>
 
+- Explore the world of <b>Cozy Capy Studio</b> where we share insights, updates, and behind-the-scenes content! <a href="https://www.youtube.com/c/cozycapystudio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cozycapystudio" height="30" width="40" /></a>
+- Level up your **Unity** skills **with me**, with advanced, **personalized mentoring** on <a href="https://masterdevs.es/">Master Devs</a>, a Spanish learning platform <img alt="MasterDevsLogo" width="40" src="https://www.masterdevs.es/wp-content/uploads/2021/11/LogoMasterDevs64x64.jpg.webp" align="center" />
 
-- See everything related to <b>Cozy Capy Studio</b> <a href="https://www.youtube.com/c/cozycapystudio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cozycapystudio" height="30" width="40" /></a>
-- Mentoring and teaching about Unity on <a href="https://masterdevs.es/">Master Devs</a>  <img alt="MasterDevsLogo" width="40" src="https://www.masterdevs.es/wp-content/uploads/2021/11/LogoMasterDevs64x64.jpg.webp" align="center" />
 
-- Reach me on  <a href="https://www.linkedin.com/in/alancebohin/">**LinkedIn**</a> or <a href="mailto:alancebohin92@gmail.com">**alancebohin92@gmail.com**</a>
+- Reach me on  <a href="https://www.linkedin.com/in/alancebohin/">**LinkedIn**</a>, <a href="mailto:alancebohin92@gmail.com">**alancebohin92@gmail.com**</a> or <a href="mailto:studio@cozycapy.com">**studio@cozycapy.com**</a>
 
 <h3 align="left">Check my <a href="https://alancebohin.itch.io/cv">INTERACTIVE RESUME</a> out on itch.io</h3>
 
