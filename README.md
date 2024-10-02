@@ -13,7 +13,7 @@
 
 - Explore the world of <b>Cozy Capy Studio</b> where we share insights, updates, and behind-the-scenes content! <a href="https://www.youtube.com/c/cozycapystudio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cozycapystudio" height="30" width="40" /></a>
 - Level up your **Unity** skills **with me**, with **advanced**, **personalized mentoring** on <a href="https://masterdevs.es/unity-multiplayer-developer">Master Devs</a>, the **PRO** and most **COMPLETE** Spanish learning platform <img alt="MasterDevsLogo" width="40" src="https://www.masterdevs.es/wp-content/uploads/2021/11/LogoMasterDevs64x64.jpg.webp" align="center" />
-- Find my courses on <a href="https://www.udemy.com/user/alan-cebohin//">Udemy</a>, and level up your game development skills <img alt="UdemyLogo" width="40" src="https://pbs.twimg.com/profile_images/1417157967124721666/xShJF4Km_400x400.png" align="center" />
+- Find my courses on <a href="https://www.udemy.com/user/alan-cebohin/">Udemy</a>, and level up your game development skills <img alt="UdemyLogo" width="40" src="https://pbs.twimg.com/profile_images/1417157967124721666/xShJF4Km_400x400.png" align="center" />
 
 
 
