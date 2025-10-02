@@ -24,5 +24,10 @@
 <h3 align="left">Check my <a href="https://alancebohin.itch.io/cv">INTERACTIVE RESUME</a> out on itch.io</h3>
 
 <hr>
+<h3 align="left">Check the game jam games I worked on:</h3>
+<a href="https://rolsson.itch.io/fisherman-steves-hobby">Fisherman Steve's hobby</a> Nordic Game Jam 2023
+<a href="https://anoukvanuffelen.itch.io/sheep-pool">Sheep Pool</a> Nordic Game Jam 2024
+
+<hr>
 <h3 align="center">Some Languages and Tools:</h3>
 <p align="center"> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
