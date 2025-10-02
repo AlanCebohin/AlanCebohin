@@ -25,8 +25,8 @@
 
 <hr>
 <h3 align="left">Check the game jam games I worked on:</h3>
-<a href="https://rolsson.itch.io/fisherman-steves-hobby">Fisherman Steve's hobby</a> Nordic Game Jam 2023
-<a href="https://anoukvanuffelen.itch.io/sheep-pool">Sheep Pool</a> Nordic Game Jam 2024
+- <a href="https://rolsson.itch.io/fisherman-steves-hobby">Fisherman Steve's hobby</a> Nordic Game Jam 2023
+- <a href="https://anoukvanuffelen.itch.io/sheep-pool">Sheep Pool</a> Nordic Game Jam 2024
 
 <hr>
 <h3 align="center">Some Languages and Tools:</h3>
