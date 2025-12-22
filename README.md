@@ -3,7 +3,7 @@
 
 
 <h1 align="center"><a href="https://www.credly.com/badges/fccec8ed-4a73-4fff-8658-28bbd57c9068/" target="_blank"> Unity Certified Programmer &nbsp <img src="https://certiport.pearsonvue.com/Certifications/Unity/Certified-User/Badging/certified-user.png" alt="CertificationBadge" style="height:65px; height:65px" align="center" /></a> </h1>
-<h2 align="center">Co-Founder of <a href="https://twitter.com/cozycapystudio" target="blank">Cozy Capy Studio</a>, Crafting Unforgettable Experiences and Virtual Worlds.</h2>
+<h2 align="center">Co-Founder of <a href="https://store.steampowered.com/search/?developer=Cozy%20Capy%20Studio" target="blank">Cozy Capy Studio</a>, Crafting Unforgettable Experiences and Virtual Worlds.</h2>
 <br>
 
 <h2 align="center">Wishlist <a href="https://store.steampowered.com/app/3080430/Iron_Crown/" target="blank">IRON CROWN</a>, now!</h2>
