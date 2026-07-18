@@ -1,17 +1,17 @@
 
-![banner](https://github.com/AlanCebohin/AlanCebohin/assets/19630708/e7ace308-f12f-4698-8198-da68f0a985ce)
+<!-- ![banner](https://github.com/AlanCebohin/AlanCebohin/assets/19630708/e7ace308-f12f-4698-8198-da68f0a985ce) -->
 
 
 <h1 align="center"><a href="https://www.credly.com/badges/fccec8ed-4a73-4fff-8658-28bbd57c9068/" target="_blank"> Unity Certified Programmer &nbsp <img src="https://certiport.pearsonvue.com/Certifications/Unity/Certified-User/Badging/certified-user.png" alt="CertificationBadge" style="height:65px; height:65px" align="center" /></a> </h1>
-<h2 align="center">Co-Founder of <a href="https://store.steampowered.com/search/?developer=Cozy%20Capy%20Studio" target="blank">Cozy Capy Studio</a>, Crafting Unforgettable Experiences and Virtual Worlds.</h2>
-<br>
+<!-- <h2 align="center">Co-Founder of <a href="https://store.steampowered.com/search/?developer=Cozy%20Capy%20Studio" target="blank">Cozy Capy Studio</a>, Crafting Unforgettable Experiences and Virtual Worlds.</h2>
+<br> -->
 
-<h2 align="center">Wishlist <a href="https://store.steampowered.com/app/3080430/Iron_Crown/" target="blank">IRON CROWN</a>, now!</h2>
+<!-- <h2 align="center">Wishlist <a href="https://store.steampowered.com/app/3080430/Iron_Crown/" target="blank">IRON CROWN</a>, now!</h2>
 
 ![Iron_Crown_on_Steam](https://github.com/user-attachments/assets/6b8633e6-5d33-41ed-9942-971710a3d9d7)
-<br>
+<br> -->
 
-- Explore the world of <a href="https://www.youtube.com/@cozycapystudio" target="blank"><b>Cozy Capy Studio</b></a> where we share insights, updates, and behind-the-scenes content! <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cozycapystudio" height="40" width="40" /> <b>(Coming soon!)</b>
+<!-- - Explore the world of <a href="https://www.youtube.com/@cozycapystudio" target="blank"><b>Cozy Capy Studio</b></a> where we share insights, updates, and behind-the-scenes content! <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cozycapystudio" height="40" width="40" /> <b>(Coming soon!)</b> -->
 - Join my <a href="https://discord.gg/HvrRDA3TfY">Discord</a> Server to follow my game dev journey closely, level up your skills, and get access to discount coupons on my courses <img alt="DiscordLogo" height="40" width="40" src="https://static.vecteezy.com/system/resources/previews/018/930/718/non_2x/discord-logo-discord-icon-transparent-free-png.png" align="center" />
 - Find my courses on <a href="https://www.udemy.com/user/alan-cebohin/">Udemy</a>, and level up your game development skills <img alt="UdemyLogo" height="40" width="40" src="https://pbs.twimg.com/profile_images/1417157967124721666/xShJF4Km_400x400.png" align="center" height="40" width="40" />
 - Check my <a href="https://www.youtube.com/@samuraii_dev" target="blank"><b>YouTube channel</b></a> for more devlogs, tutorials, and everything about videogames <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="samuraideveng/samuraii_devOnYouTube" height="40" width="40" /></a> <b></b>
@@ -19,15 +19,15 @@
 
 
 
-- Reach me on  <a href="https://www.linkedin.com/in/alancebohin/">**LinkedIn**</a>, <a href="mailto:alancebohin92@gmail.com">**alancebohin92@gmail.com**</a> or <a href="mailto:studio@cozycapy.com">**studio@cozycapy.com**</a>
+- Reach me on  <a href="https://www.linkedin.com/in/alancebohin/">**LinkedIn**</a> or <a href="mailto:alancebohin92@gmail.com">**alancebohin92@gmail.com**</a> <!-- or <a href="mailto:studio@cozycapy.com">**studio@cozycapy.com**</a> -->
 
-<h3 align="left">Check my <a href="https://alancebohin.itch.io/cv">INTERACTIVE RESUME</a> out on itch.io</h3>
+<!-- <h3 align="left">Check my <a href="https://alancebohin.itch.io/cv">INTERACTIVE RESUME</a> out on itch.io</h3>
 
 <hr>
 <h3 align="center">Check the game jam games I worked on</h3>
 - Nordic Game Jam 2023 <a href="https://rolsson.itch.io/fisherman-steves-hobby">Fisherman Steve's hobby</a>.
 <br>
-- Nordic Game Jam 2024 <a href="https://anoukvanuffelen.itch.io/sheep-pool">Sheep Pool</a>.
+- Nordic Game Jam 2024 <a href="https://anoukvanuffelen.itch.io/sheep-pool">Sheep Pool</a>. -->
 
 <hr>
 <h3 align="center">Some Languages and Tools:</h3>
